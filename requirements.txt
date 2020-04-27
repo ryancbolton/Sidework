@@ -1,0 +1,19 @@
+# pip install -r requirements.txt
+
+# FOR DOWNLOADED CODE FOLDER
+# for Sudoku.py: 
+pygame==1.9.6
+time
+# will also need to download GUI.py for GUI for Sudoku.py
+
+# for othello.py
+tkinter
+math
+time
+random
+copy
+
+# FOR POKEMON SORTER
+# for pokemon_data_sorter.py
+pandas==0.25.1
+
