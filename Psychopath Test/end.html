@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Congrats!</title>
+    <link rel="stylesheet" href="app.css" />
+    <style>
+      h1 {margin-bottom: 2rem;}
+      p {color: #a856eb; font-size: 2.8rem; margin-bottom: 4rem; text-align: center;}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="end" class="flex-center flex-column">
+          <p>Your final score is:</p>
+          <h1 id="finalScore"></h1>
+          <p>A score of 30 is considered a psychopath in the United States, 
+            while a score of 25 is considered a psychopath in the United Kingdom.</p>
+          <p>A score of 40 is a perfect score and is considered a "perfect" psychopath.</p>
+          <form>
+            <input
+              type="text"
+              name="username"
+              id="username"
+              placeholder="enter username"
+            />
+            <button
+              type="submit"
+              class="btn"
+              id="saveScoreBtn"
+              onclick="saveHighScore(event)"
+              disabled
+            >
+              Save
+            </button>
+          </form>
+          <a class="btn" href="/game.html">Play Again</a>
+          <a class="btn" href="/">Go Home</a>
+        </div>
+      </div>
+      <script src="end.js"></script>
+</body>
+</html>

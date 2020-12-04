@@ -1,0 +1,122 @@
+[
+    {
+      "question": "Glib and superficial charm",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Grandiose (exaggeratedly high) estimation of self",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Need for stimulation",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Pathological lying",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Cunning and manipulativeness",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Lack of remorse or guilt",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Shallow affect (superficial emotional responsiveness",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Callousness and lack of empathy",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Parasitic lifestyle",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Poor behavioral controls",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Sexual promiscuity",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Early behavior problems",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Lack of realistic long-term goals",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Impulsivity",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Irresponsibility",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Failure to accept responsibility for own actions",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Many short-term marital relationships",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Juvenile delinquincy",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Revocation of conditional release",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    },
+    {
+      "question": "Criminal versatility",
+      "choice1": "Disagree",
+      "choice2": "Somewhat Agree",
+      "choice3": "Strongly Agree"
+    }
+  ]
